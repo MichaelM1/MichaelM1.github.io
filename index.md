@@ -60,35 +60,6 @@ Major GPA: 4.0
 ### Contact Information
 
 [LinkedIn](https://linkedin.com/in/michaelmaoucsd/)
- 
- <br />
- 
-<br />
-
-<br />
-<br />
-
- <br />
- 
- <br />
- 
- <br />
- 
- <br />
- 
- <br />
- 
- <br />
-
- 
- 
-  <br />
-
- 
- 
-  <br />
-
- <br />
 
  <br />
  
@@ -106,6 +77,12 @@ Major GPA: 4.0
  
  <br />
  
- <br /> 
+ <br />
+ 
+ <br />
+ 
+ <br />
+ 
+ <br />
 
 [~~*secret button*~~](SECRET.md)
