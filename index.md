@@ -1,25 +1,51 @@
 # Michael Mao
 
-![image](https://user-images.githubusercontent.com/15043821/113537901-bdf86780-958e-11eb-80db-abd42bd38fb3.png)
+![image](User Page Image.png)
 
-In the words of Abraham Lincoln:
+Use `section links` to skip to a specific section!
 
-> Pardon my French
+### About Me
 
-Use `git status` to list.
+Hi, my name is Michael Mao, I'm a second-year student studying Computer Science at UC San Diego. I'm looking to improve my skills and become a software engineer!
 
-This site was built using [Github Pages](https://pages.github.com/).
+Favorite Hobbies:
+1. Video games
+2. Sports
+3. Cooking
 
-[secret](HELLO.md)
+My favorite quote, in the words of Professor Powell:
 
+> Sporks suck!
+
+### Education
+
+**University of California San Diego**
+BS in Computer Science, Anticipated December 2022
+GPA: 3.77
+Major GPA: 4.0
+
+### Relevant Coursework
+
+- CSE 11
+- CSE 12
+- CSE 15L
+- CSE 21
+- CSE 30
 - CSE 100
-- CSE 101
-- CSE 110
+- CSE 105
+- CSE 140
+- CSE 140L
 
-1. a
-2. b
-3. c
+### Future Coursework
 
-- [x] apples
-- [ ] bananas
-- [ ] oranges
+- [x] CSE 101
+- [x] CSE 110
+- [ ] CSE 110
+- [ ] CSE 101
+
+### Contact Information
+
+[LinkedIn](https://linkedin.com/in/michaelmaoucsd/)
+
+
+[~~*secret button*~~](SECRET.md)
