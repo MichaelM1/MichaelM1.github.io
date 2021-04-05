@@ -4,11 +4,15 @@
 
 Use `section links` to skip to a specific section!
 
-###### About Me
-###### Education
-###### Relevant Coursework
-###### Future Coursework
-###### Contact Information
+[About Me](### about-me)
+
+[Education](### education)
+
+[Relevant Coursework](### relevant-coursework)
+
+[Future Coursework](### future-coursework)
+
+[Contact Information](### contact-information)
 
 ### About Me
 
@@ -56,14 +60,14 @@ Major GPA: 4.0
 ### Contact Information
 
 [LinkedIn](https://linkedin.com/in/michaelmaoucsd/)
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
 [~~*secret button*~~](SECRET.md)
