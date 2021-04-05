@@ -1,8 +1,14 @@
 # Michael Mao
 
-![image](User Page Image.png)
+![image](User_Page_Image_2.png)
 
 Use `section links` to skip to a specific section!
+
+###### About Me
+###### Education
+###### Relevant Coursework
+###### Future Coursework
+###### Contact Information
 
 ### About Me
 
@@ -20,8 +26,11 @@ My favorite quote, in the words of Professor Powell:
 ### Education
 
 **University of California San Diego**
+
 BS in Computer Science, Anticipated December 2022
+
 GPA: 3.77
+
 Major GPA: 4.0
 
 ### Relevant Coursework
@@ -40,12 +49,21 @@ Major GPA: 4.0
 
 - [x] CSE 101
 - [x] CSE 110
-- [ ] CSE 110
-- [ ] CSE 101
+- [ ] CSE 103
+- [ ] CSE 142
+- [ ] CSE 142L
 
 ### Contact Information
 
 [LinkedIn](https://linkedin.com/in/michaelmaoucsd/)
+
+
+
+
+
+
+
+
 
 
 [~~*secret button*~~](SECRET.md)
